@@ -50,7 +50,7 @@ Pratical_Project/
 
 ### 1. Ana menu
 
-<img src=“Screenshots/Main_menu.png” width=“600”>
+<img src="Screenshots/Main_menu.png" width=“600”>
 
 - Faling word**: Düşen kelimeler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
 - Falling letter**: Düşen harfler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.

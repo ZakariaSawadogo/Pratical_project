@@ -1,0 +1,66 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c0a2975e-4e92-4da0-9032-903289429e70\" name=\"Changes\" comment=\"sounds commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"manar\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"ZakariaSawadogo\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\"><![CDATA[{\r\n  \"selectedUrlAndAccountId\": {\r\n    \"url\": \"https://github.com/ZakariaSawadogo/Pratical_project.git\",\r\n    \"accountId\": \"152bcfdb-a58c-45e6-ab73-29cf4afc5db5\"\r\n  }\r\n}]]></component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 6\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2xFXOi44F5mKM4diPjWSoutHWdE\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"RunOnceActivity.git.unshallow\": \"true\",\r\n    \"git-widget-placeholder\": \"zakaria\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444\" />\r\n        <option value=\"bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c0a2975e-4e92-4da0-9032-903289429e70\" name=\"Changes\" comment=\"\" />\r\n      <created>1747534764339</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1747534764339</updated>\r\n      <workItem from=\"1747534765370\" duration=\"29000\" />\r\n      <workItem from=\"1747586506628\" duration=\"844000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Branch creation\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747587171827</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747587171827</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"flags commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747587304499</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747587304499</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"sounds commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1747587338103</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1747587338103</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initial commit\" />\r\n    <MESSAGE value=\"Branch creation\" />\r\n    <MESSAGE value=\"flags commit\" />\r\n    <MESSAGE value=\"sounds commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"sounds commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5f2c83836c8c2bf75c709063929532316d349e27)
++++ b/.idea/workspace.xml	(date 1747587719553)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c0a2975e-4e92-4da0-9032-903289429e70" name="Changes" comment="sounds commit" />
++    <list default="true" id="c0a2975e-4e92-4da0-9032-903289429e70" name="Changes" comment="Falling_word.py python files">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -68,7 +70,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1747534764339</updated>
+       <workItem from="1747534765370" duration="29000" />
+-      <workItem from="1747586506628" duration="844000" />
++      <workItem from="1747586506628" duration="1200000" />
+     </task>
+     <task id="LOCAL-00001" summary="Branch creation">
+       <option name="closed" value="true" />
+@@ -94,7 +96,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1747587338103</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="images and icons commit">
++      <option name="closed" value="true" />
++      <created>1747587606262</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1747587606262</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Falling_word.py python files">
++      <option name="closed" value="true" />
++      <created>1747587654687</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1747587654687</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -105,6 +123,8 @@
+     <MESSAGE value="Branch creation" />
+     <MESSAGE value="flags commit" />
+     <MESSAGE value="sounds commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="sounds commit" />
++    <MESSAGE value="images and icons commit" />
++    <MESSAGE value="Falling_word.py python files" />
++    <option name="LAST_COMMIT_MESSAGE" value="Falling_word.py python files" />
+   </component>
+ </project>
+\ No newline at end of file

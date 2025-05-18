@@ -43,3 +43,53 @@ Pratical_Project/
 │ └── turkish.png
 │
 └── README.md
+## 🎮 Oynanış
+
+### 1. Ana menu
+
+<img src=“Screenshots/Main_menu.png” width=“600”>
+
+- Düşen Kelime**: Düşen kelimeler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
+- Düşen Harf**: Düşen harfler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
+- Çıkış**: Oyundan çıkın.
+
+
+### 2. Falling word
+
+<img src=“Screenshots/Falling_word_gameplay.png” width=“600”>
+
+- Puan kazanmak için düşen kelimeleri yazın.
+- Art arda 3 doğru cevaptan sonra kalp kazanın.
+- Bir kelime yere düşerse veya cevap yanlışsa kalp kaybedin.
+- Zorluk her 5 doğru kelimede bir artar.
+
+<img src=“Screenshots/Falling_word_languageChoice.png” width=“600”>
+
+Oyuncu kelimelerin dilini seçebilir:
+- 🇬🇧 İngilizce
+- 🇫🇷 Fransızca
+- 🇹🇷 Türkçe
+- 🇪🇸 İspanyolca
+- 🇩🇪 Almanca
+- 🇹🇯 Kürtçe
+
+### 3 Falling letter
+
+<img src="Screenshots/Falling_letter_gameplay.png“ width=”600">
+
+- Puan kazanmak için düşen harfleri yazın.
+- Art arda 5 doğru cevaptan sonra kalp kazanın.
+- Art arda 2 harf yere düşerse veya 2 cevap yanlışsa kalpleri kaybedin.
+- Zorluk her 5 doğru harfte bir artar (düşme hızı ve düşen harf sayısı artar).
+
+### 4. Game over
+
+<img src=“Screenshots/game_over.png” width=“600”>
+
+Skor ve ulaşılan seviyenin görüntülenmesi.
+
+## 🛠️ Kullanılan teknolojiler
+
+- Python 3.10+**
+- Pygame
+- Git & GitHub**

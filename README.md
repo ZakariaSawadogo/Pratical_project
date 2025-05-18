@@ -8,6 +8,7 @@
 - **Manar Ahmad SALEM** – [github.com/ManarSalem99](https://github.com/ManarSalem99)
 
 ## 📁 Projenin Yapısı
+````
 Pratical_Project/
 │
 ├── main.py
@@ -43,7 +44,7 @@ Pratical_Project/
 │ └── turkish.png
 │
 └── README.md
-
+````
 
 ## 🎮 Oynanış
 
@@ -51,21 +52,21 @@ Pratical_Project/
 
 <img src=“Screenshots/Main_menu.png” width=“600”>
 
-- Düşen Kelime**: Düşen kelimeler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
-- Düşen Harf**: Düşen harfler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
-- Çıkış**: Oyundan çıkın.
+- Faling word**: Düşen kelimeler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
+- Falling letter**: Düşen harfler, oyuncu onları ekranın altına ulaşmadan önce yazmalıdır.
+- Exit**: Oyundan çıkın.
 
 
 ### 2. Falling word
 
-<img src=“Screenshots/Falling_word_gameplay.png” width=“600”>
+<img src="Screenshots/Falling_word_gameplay.png" width="600">
 
 - Puan kazanmak için düşen kelimeleri yazın.
 - Art arda 3 doğru cevaptan sonra kalp kazanın.
 - Bir kelime yere düşerse veya cevap yanlışsa kalp kaybedin.
 - Zorluk her 5 doğru kelimede bir artar.
 
-<img src=“Screenshots/Falling_word_languageChoice.png” width=“600”>
+<img src="Screenshots/Falling_word_languageChoice.png" width="600">
 
 Oyuncu kelimelerin dilini seçebilir:
 - 🇬🇧 İngilizce
@@ -77,7 +78,7 @@ Oyuncu kelimelerin dilini seçebilir:
 
 ### 3 Falling letter
 
-<img src="Screenshots/Falling_letter_gameplay.png“ width=”600">
+<img src="Screenshots/Falling_letter_gameplay.png" width="600">
 
 - Puan kazanmak için düşen harfleri yazın.
 - Art arda 5 doğru cevaptan sonra kalp kazanın.
@@ -86,7 +87,7 @@ Oyuncu kelimelerin dilini seçebilir:
 
 ### 4. Game over
 
-<img src=“Screenshots/game_over.png” width=“600”>
+<img src="Screenshots/game_over.png" width="600">
 
 Skor ve ulaşılan seviyenin görüntülenmesi.
 

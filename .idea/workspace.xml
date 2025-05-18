@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0a2975e-4e92-4da0-9032-903289429e70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Pratical_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pratical_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c0a2975e-4e92-4da0-9032-903289429e70" name="Changes" comment="sounds commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,11 +68,43 @@
       <option name="presentableId" value="Default" />
       <updated>1747534764339</updated>
       <workItem from="1747534765370" duration="29000" />
-      <workItem from="1747586506628" duration="494000" />
+      <workItem from="1747586506628" duration="844000" />
     </task>
+    <task id="LOCAL-00001" summary="Branch creation">
+      <option name="closed" value="true" />
+      <created>1747587171827</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747587171827</updated>
+    </task>
+    <task id="LOCAL-00002" summary="flags commit">
+      <option name="closed" value="true" />
+      <created>1747587304499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747587304499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sounds commit">
+      <option name="closed" value="true" />
+      <created>1747587338103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747587338103</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Branch creation" />
+    <MESSAGE value="flags commit" />
+    <MESSAGE value="sounds commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="sounds commit" />
   </component>
 </project>

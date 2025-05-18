@@ -11,8 +11,8 @@
 Pratical_Project/
 │
 ├── main.py
-├── Falling_word.py 
-├── Falling_letter.py 
+├── Falling_word.py
+├── Falling_letter.py
 │
 ├── words/
 │ ├── English.txt

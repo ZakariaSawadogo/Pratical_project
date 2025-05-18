@@ -96,3 +96,20 @@ Skor ve ulaşılan seviyenin görüntülenmesi.
 - Python 3.10+**
 - Pygame
 - Git & GitHub**
+
+## ⏳ Sürüm Oluşturma ve İşbirliği Sistemi
+
+- Proje **Git** ile sürümlendirildi.
+- Her üye kendi **kişisel GitHub hesabını** kullandı.
+- Geliştirme boyunca düzenli taahhütler.
+
+📌 https://github.com/ZakariaSawadogo/Pratical_project.git
+
+## 🎥 Video Gösterimi
+
+👉 [YouTube Videosu - Sunum ve Oynanış (süre 9 dakika)](https://youtu.be/demo_typinglearn)
+
+Bu videoda:
+- Kaynak kodun hızlı sunumu
+- Özelliklerin açıklanması
+- Oynanış gösterimi

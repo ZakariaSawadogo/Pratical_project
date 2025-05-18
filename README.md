@@ -93,9 +93,9 @@ Skor ve ulaşılan seviyenin görüntülenmesi.
 
 ## 🛠️ Kullanılan teknolojiler
 
-- Python 3.10+**
+- Python 3.13.3
 - Pygame
-- Git & GitHub**
+- Git & GitHub
 
 ## ⏳ Sürüm Oluşturma ve İşbirliği Sistemi
 
@@ -107,7 +107,7 @@ Skor ve ulaşılan seviyenin görüntülenmesi.
 
 ## 🎥 Video Gösterimi
 
-👉 [YouTube Videosu - Sunum ve Oynanış (süre 9 dakika)](https://youtu.be/demo_typinglearn)
+👉 [Video link ](https://not_yet)
 
 Bu videoda:
 - Kaynak kodun hızlı sunumu

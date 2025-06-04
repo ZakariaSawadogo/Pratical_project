@@ -107,7 +107,7 @@ Skor ve ulaşılan seviyenin görüntülenmesi.
 
 ## 🎥 Video Gösterimi
 
-👉 [Video link ](https://not_yet)
+👉 [Video link ]([https://not_yet](https://drive.google.com/file/d/1ST9PrG753Yv5Pq_ItMTLm1tk6YbsqXsD/view?usp=drive_link))
 
 Bu videoda:
 - Kaynak kodun hızlı sunumu
